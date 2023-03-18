@@ -1,0 +1,173 @@
+body
+{
+  text-align: center;
+}
+.form-control {
+  border: 1px solid grey;
+  background-color: black;
+  border-radius: 0%;
+  color: white;
+  font-weight: 900;
+}
+.btn
+{
+  
+  margin-left: 40%;
+}
+h1,h2,h3
+{
+  font-family: 'Montserrat';
+}
+p
+{
+  color: #8f8f8f;
+  font-size: 1.1rem;
+}
+.colored_background
+{
+  background-color: #3C6255;
+  color: white;
+}
+.white_background
+{
+  background-color: #fff;
+  
+}
+.big_heading
+{
+  line-height: 1.5;
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+.small_heading
+{
+  margin-left: 9%;
+  margin-right: 9%;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-weight:800;
+}
+
+.container-fluid
+{
+ 
+  background-image: url('meme2.png');
+}
+
+.navbar-brand
+{
+  margin-left: 7px;
+  font-size: 2rem;
+  font-family: 'Montserrat';
+}
+.navbar
+{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left:0;
+}
+.nav-item
+{
+  padding: 0 10px;
+}
+.sub-container
+{
+  padding-top: 40px; 
+  padding-right: 500px; 
+}
+
+#title .container-fluid
+{
+  font-family: 'Montserrat';
+  text-align: left;
+  padding: 3% 14% 7%;
+  height: 702px;
+}
+.title_option
+{
+  font-weight:800;
+}
+.img_1
+{
+  margin-left: 9%;
+  width: 220%;
+  position: absolute;
+}
+
+#features
+{
+  position: relative;
+    padding: 100px;
+  }
+.sect_2
+{
+  margin-right: 0;
+ 
+}
+
+#testimonials
+{
+
+  background-color: #F3EFE0;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: #434242;
+
+}
+.one
+{
+  padding-top: 3%;
+
+}
+.testimonial_img
+{
+  border-radius: 100%;
+  width: 12%;
+  margin-right: 20px;
+}
+#press
+{
+  background-color: #F3EFE0;
+  height:150px;
+}
+.press_logo
+{
+  height:23%;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+#footer
+{
+  padding-top: 2%;
+  padding-bottom: 3%;
+  background-color:#434242;
+}
+.footer_icon
+{
+  color: black;
+  padding: 30px 30px 0;
+}
+.footer_icon:hover
+{
+  color:#5D3891;
+}
+.footer_text
+{
+  color: black;
+  padding-top: 2%;
+  font-size: 12px;
+  margin-bottom: 0;
+}
+.link
+{
+  color: black;
+  font-size: 12px;
+
+}
+.link:hover
+{
+  text-decoration: none;
+  color:#61876E;
+}
+ 
